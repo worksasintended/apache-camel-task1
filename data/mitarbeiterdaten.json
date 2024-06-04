@@ -1,0 +1,94 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Max",
+      "lastName": "Mustermann",
+      "position": "Softwareentwickler",
+      "department": "IT",
+      "email": "max.mustermann@example.com",
+      "phone": "0123-456789"
+    },
+    {
+      "id": 2,
+      "firstName": "Julia",
+      "lastName": "Schmidt",
+      "position": "Projektmanagerin",
+      "department": "Management",
+      "email": "julia.schmidt@example.com",
+      "phone": "0123-456780"
+    },
+    {
+      "id": 3,
+      "firstName": "Peter",
+      "lastName": "Müller",
+      "position": "Systemadministrator",
+      "department": "IT",
+      "email": "peter.mueller@example.com",
+      "phone": "0123-456781"
+    },
+    {
+      "id": 4,
+      "firstName": "Anna",
+      "lastName": "Meier",
+      "position": "Buchhalterin",
+      "department": "Finanzen",
+      "email": "anna.meier@example.com",
+      "phone": "0123-456782"
+    },
+    {
+      "id": 5,
+      "firstName": "Michael",
+      "lastName": "Schneider",
+      "position": "Marketing Manager",
+      "department": "Marketing",
+      "email": "michael.schneider@example.com",
+      "phone": "0123-456783"
+    },
+    {
+      "id": 6,
+      "firstName": "Laura",
+      "lastName": "Fischer",
+      "position": "Personalreferentin",
+      "department": "HR",
+      "email": "laura.fischer@example.com",
+      "phone": "0123-456784"
+    },
+    {
+      "id": 7,
+      "firstName": "Stefan",
+      "lastName": "Weber",
+      "position": "Vertriebsleiter",
+      "department": "Vertrieb",
+      "email": "stefan.weber@example.com",
+      "phone": "0123-456785"
+    },
+    {
+      "id": 8,
+      "firstName": "Sarah",
+      "lastName": "Wagner",
+      "position": "Kundendienstmitarbeiterin",
+      "department": "Kundendienst",
+      "email": "sarah.wagner@example.com",
+      "phone": "0123-456786"
+    },
+    {
+      "id": 9,
+      "firstName": "Thomas",
+      "lastName": "Becker",
+      "position": "Qualitätsmanager",
+      "department": "Qualitätssicherung",
+      "email": "thomas.becker@example.com",
+      "phone": "0123-456787"
+    },
+    {
+      "id": 10,
+      "firstName": "Nina",
+      "lastName": "Hofmann",
+      "position": "Grafikdesignerin",
+      "department": "Design",
+      "email": "nina.hofmann@example.com",
+      "phone": "0123-456788"
+    }
+  ]
+}
